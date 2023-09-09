@@ -27,5 +27,11 @@
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c#.svg'>
 </div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,typescript,tailwind,bootstrap,framer,figma,perline=14" />
+  </a>
+</p>
+
 
 
