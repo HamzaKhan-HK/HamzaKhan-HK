@@ -7,6 +7,7 @@
 <br>
 
 #### 🌱 I’m currently learning TypeScript and Next.JS
+#### :technologist: I love using Software as a solution for every `Problem`.
 
 <br>
 
