@@ -6,8 +6,8 @@
 
 <br>
 
-#### 🌱 I’m currently learning TypeScript and Next.JS
-#### :technologist: I love using Software as a solution for every `Problem`.
+#### - 🌱 I’m currently learning TypeScript and Next.JS
+#### - :technologist: Always keeping up to date with the latest development and UI trends.
 
 <br>
 
