@@ -21,7 +21,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,typescript,tailwind,bootstrap,figma,perline=14" />
   </a>
-  and Framer Motion
 </p>
 
 
