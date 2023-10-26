@@ -15,7 +15,7 @@
 ## Tools I Work With:
 #### <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,tailwind,bootstrap,figma,materialui,perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,node,typescript,tailwind,bootstrap,figma,materialui,perline=14" />
   </a>
 </p>
 
