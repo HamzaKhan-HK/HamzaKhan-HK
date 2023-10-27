@@ -8,7 +8,7 @@
 - :technologist: Always keeping up to date with the latest development and UI trends
 - 🤔 I enjoy coming up with new and unique projects to make
 
-- <br>
+<br>
 
 ## Tools I Work With:
 #### <p align="center">
