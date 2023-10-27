@@ -17,6 +17,10 @@
   </a>
 </p>
 
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,tailwind,bootstrap,figma,materialui,perline=14" />
+</a>
+
 
 
 
