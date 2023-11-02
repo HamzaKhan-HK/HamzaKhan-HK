@@ -1,6 +1,6 @@
 <p>Hi, I’m Hamza 👋</p> 
 
-<h3>Detail-oriented front-end web developer with experience working with HTML, CSS, JavaScript, React.JS and Tailwind CSS. Highly adept at both independent and collaborative projects with a key focus on creating modern and innovative websites for a unique web experience.</h3>
+<p>Detail-oriented front-end web developer with experience working with HTML, CSS, JavaScript, React.JS and Tailwind CSS. Highly adept at both independent and collaborative projects with a key focus on creating modern and innovative websites for a unique web experience.</p>
 
 <br>
 
@@ -10,7 +10,7 @@
 
 <br>
 
-<h2>Tools I Work With:</h2> 
+<p>Tools I Work With:</p> 
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,tailwind,bootstrap,figma,materialui,perline=14" />
