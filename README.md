@@ -1,4 +1,4 @@
-# <div class="text-center">Hi 👋 I'm Hamza Khan</div>
+# Hi 👋 I'm Hamza Khan
 
 ## 💫 About Me:
 I'm a recent computer science graduate from the University of Sunderland, interested in software development, contributing to building high-quality applications and continuous learning and improvement.
@@ -8,7 +8,6 @@ I'm a recent computer science graduate from the University of Sunderland, intere
 <li>🌱 I’m currently learning ASP.NET</li>
 </br>
 Check out my [personal portfolio](https://hamzafolio.vercel.app/)
-
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza--khan) 
