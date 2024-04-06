@@ -1,4 +1,4 @@
-# Hi 👋 I'm Hamza Khan
+# <p align="center">Hi 👋 I'm Hamza Khan</p>
 
 ## 💫 About Me:
 I'm a recent computer science graduate from the University of Sunderland, interested in software development, contributing to building high-quality applications and continuous learning and improvement.
