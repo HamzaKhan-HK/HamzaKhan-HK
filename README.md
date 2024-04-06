@@ -1,12 +1,12 @@
-# Hi 👋 I'm Hamza Khan
+# <div class="text-center">Hi 👋 I'm Hamza Khan</div>
 
 ## 💫 About Me:
 I'm a recent computer science graduate from the University of Sunderland, interested in software development, contributing to building high-quality applications and continuous learning and improvement.
 
 ## 🚀 What I'm Doing
 <li>🔭 I’m currently working on developing application with C# .NET</li>
-<br>
 <li>🌱 I’m currently learning ASP.NET</li>
+</br>
 Check out my [personal portfolio](https://hamzafolio.vercel.app/)
 
 
