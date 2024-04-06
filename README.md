@@ -7,7 +7,7 @@ I'm a recent computer science graduate from the University of Sunderland, intere
 <li>🔭 I’m currently working on developing application with C# .NET</li>
 <li>🌱 I’m currently learning ASP.NET</li>
 </br>
-Check out my [personal portfolio](https://hamzafolio.vercel.app/)
+Check out my [personal portfolio][https://hamzafolio.vercel.app/]
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza--khan) 
